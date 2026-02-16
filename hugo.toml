@@ -1,0 +1,60 @@
+baseURL = 'https://bus.thebottriells.com/'
+languageCode = 'en-us'
+theme = 'PaperMod'
+title = 'The Bus Blog'
+
+[menu]
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 20
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 30
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 40
+
+[params]
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowPostNavLinks = true
+ShowReadingTime = true
+ShowRssButtonInSectionTermList = true
+ShowShareButtons = true
+ShowWordCount = true
+UseHugoToc = true
+author = "The Bottriells"
+comments = false
+description = "An archive of our bus adventures"
+disableScrollToTop = false
+disableSpecial1stPost = false
+hideSummary = false
+hidemeta = false
+mainSections = ['posts']
+showtoc = true
+tocopen = true
+[params.assets]
+disableFingerprinting = true
+[params.homeInfoParams]
+Content = """
+    An archived collection of our bus adventures and travels.
+    """
+Title = "The Bus Blog"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

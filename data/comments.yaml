@@ -1,0 +1,237 @@
+- id: "2"
+  author_name: Perry Bimm
+  author_email: bimmboni@hotmail.com
+  author_url: ""
+  published: 2013-10-03T00:35:49Z
+  parent_id: "0"
+  content: Morgan's Dad here!  Ryan that is an awesome bus.  You are living large. I may have to do a road trip next spring on the bike to check it out.  Have a great trip!
+  post_url: /?p=6
+  post_id: "6"
+- id: "3"
+  author_name: J
+  author_email: none@none.com
+  author_url: ""
+  published: 2013-10-03T02:28:31Z
+  parent_id: "0"
+  content: "Hey, man.\n\nI don't know you but i got to this blog through facebook and it seems pretty cool. But I do have one question, how will you park it? That (and gas), must be where a lot more money is lost. \n\nAnyway, I hope to see this bus go on many adventures on its way to Ottawa."
+  post_url: /?p=6
+  post_id: "6"
+- id: "4"
+  author_name: rydrman
+  author_email: ryanbottriell@live.ca
+  author_url: ""
+  published: 2013-10-03T15:57:35Z
+  parent_id: "3"
+  content: Hi J, lucky for me my dad has a big enough driveway to fit the bus. As for fuel, it definitely will be expensive to get it home, but I didn't buy it for its fuel economy... It'll get just under 40 L/100 km (or 6 MPG) so you do the math...
+  post_url: /?p=6
+  post_id: "6"
+- id: "5"
+  author_name: Zara
+  author_email: zara.tooth@outlook.com
+  author_url: ""
+  published: 2013-10-08T21:21:28Z
+  parent_id: "0"
+  content: '&lt;3'
+  post_url: /?p=20
+  post_id: "20"
+- id: "6"
+  author_name: Tay
+  author_email: tay.grigg@hotmail.com
+  author_url: ""
+  published: 2013-10-09T04:24:26Z
+  parent_id: "0"
+  content: Kenora already! Nice!
+  post_url: /?p=32
+  post_id: "32"
+- id: "7"
+  author_name: Tim
+  author_email: cooper.tim19@yahoo.com
+  author_url: ""
+  published: 2013-10-12T00:37:08Z
+  parent_id: "0"
+  content: All thats left to hook up now is the CB radio. :)
+  post_url: /?p=32
+  post_id: "32"
+- id: "13"
+  author_name: Garner
+  author_email: gmillward@gmail.com
+  author_url: ""
+  published: 2014-01-07T06:04:39Z
+  parent_id: "0"
+  content: What's the volume of the tank on this beast?
+  post_url: /?p=41
+  post_id: "41"
+- id: "10"
+  author_name: Sean
+  author_email: wilmingtech@gmail.com
+  author_url: http://www.herdofturtles.org
+  published: 2013-11-25T14:16:04Z
+  parent_id: "0"
+  content: Good luck on the conversion!  You guys are pretty gutsy driving through downtown Toronto and starting with an unconverted bus for your conversion!
+  post_url: /?p=56
+  post_id: "56"
+- id: "14"
+  author_name: sascha godoy
+  author_email: yodog_15@hotmail.com
+  author_url: ""
+  published: 2014-01-07T13:37:48Z
+  parent_id: "0"
+  content: Screws filled with stuff...... sounds familiar haha
+  post_url: /?p=91
+  post_id: "91"
+- id: "16"
+  author_name: Jim
+  author_email: jhja@shaw.ca
+  author_url: http://mymci12.com
+  published: 2014-03-16T02:53:47Z
+  parent_id: "0"
+  content: |-
+    Hey Ryan (is it?)
+    Your job so far looks great. I just started doing a conversion on a 1996 MC12 so we are looking at pretty much the exact same bus and workload. I am at the point of striping the inner wall panels and ripping up the floor. I have subscribed so keep the pics coming.
+  post_url: /?p=118
+  post_id: "118"
+- id: "17"
+  author_name: Earl
+  author_email: mr_know_it_all007@hotmail.com
+  author_url: ""
+  published: 2014-03-18T16:28:33Z
+  parent_id: "0"
+  content: |-
+    Hi Ryan, that`s a good looking 9, hard to believe it`s been on the road for 33yrs. Nice and straight looking, from what I can see, doors and panels not all dinged up. Being it just came out of service, it should be in reasonable mechanical condition...having to pass regular safeties. As for engine if it starts up good in 0 weather and blue/grey smoke clears up quickly, it is likely in good shape, Assuming its an automatic? if it shifts well and trans fluid is still red not brown and burnt, it`s probably fine also.
+    Too bad you are so far away, would like to see it.
+    Let me know if you run into any problems, good luck.
+    Earl
+    Goderich Ont.
+  post_url: /?p=147
+  post_id: "147"
+- id: "18"
+  author_name: Davy
+  author_email: davykellyandodie@gmail.com
+  author_url: http://www.boggsblogs.com
+  published: 2014-05-02T14:26:30Z
+  parent_id: "0"
+  content: |-
+    You are making great progress.
+
+    An RV toilet needs to be evacuated as close to straight down as possible. There is no big flush of water like a residential toilet so there is no force to push the waste sideways. The required force is gravity. You may have problems with your current set up.
+  post_url: /?p=206
+  post_id: "206"
+- id: "21"
+  author_name: dphann
+  author_email: scootaro@yahoo.com
+  author_url: http://gravatar.com/dphann
+  published: 2014-05-21T18:12:37Z
+  parent_id: "18"
+  content: My Sealand toilet has a 39 inch horizontal run, no problem 20 years later, you'll be fine.Keep on building.
+  post_url: /?p=206
+  post_id: "206"
+- id: "32"
+  author_name: Devin
+  author_email: Drcharger76@yahoo.com
+  author_url: ""
+  published: 2014-09-17T14:04:06Z
+  parent_id: "0"
+  content: I have a 75 mci 5 b and you have to do a service brake application once running to get the brakes to fully release . I had the same problem , it would move but was really labouring .I also had the same problem too with our  bathroom sink as you with your toilet, we built our walls between the windows only to find the sink drain would come out in the rear wheel well ! Anyway problem solved, ran the drain to the wall and shrouded it in the through the floor . Nice to see theres other people with the same interest ,great work man !
+  post_url: /?p=206
+  post_id: "206"
+- id: "1064"
+  author_name: James
+  author_email: thecarneyspi3.14@gmail.com
+  author_url: ""
+  published: 2015-10-18T04:02:59Z
+  parent_id: "0"
+  content: hey man where did you find those gauges? we just started our conversion. we have the same year and everything.
+  post_url: /?p=206
+  post_id: "206"
+- id: "19"
+  author_name: Perry Bimm
+  author_email: bimmboni@hotmail.com
+  author_url: ""
+  published: 2014-05-16T12:06:13Z
+  parent_id: "0"
+  content: Hey Ryan, Morgan's dad here..... Just some thoughts from an "Old McGiver Type". Two things, one the bus is really coming together and looks great.  You are doing one bang up job of the interior. The other is to do with your battery power/inverter.  Did you put in a charging supply from the Bus Altenator to keep the inverter battery charged? If you did, did you switch it so your inverter will not draw off the regular bus batteries?  One last thought, do you have a small generator for power? I hope I get to see the bus, you are doing an awesome job!
+  post_url: /?p=212
+  post_id: "212"
+- id: "20"
+  author_name: Ryan
+  author_email: ryanbottriell@live.ca
+  author_url: ""
+  published: 2014-05-17T12:52:35Z
+  parent_id: "19"
+  content: |-
+    Hey Perry, the bus actually has a 24v alternator and power system, so it doesn't really work with the inverter system. My plan is to buy a cheap, used 12v alternator and add it to the engine.This way the starter batteries are always ready and charged, and the house system can do it's own thing. I left space for a small generator, and my inverter actually has the functionality to tart and stop it whenever necessary, but I don't want to spend the money on tit yet...
+    You'l have to come see it sometime in Ottawa or when we bring it to Toronto!
+  post_url: /?p=212
+  post_id: "212"
+- id: "22"
+  author_name: Alex Bird
+  author_email: alexkbird@gmail.com
+  author_url: ""
+  published: 2014-06-06T20:47:29Z
+  parent_id: "0"
+  content: Wow! It's looking sharp! Nice work :)
+  post_url: /?p=260
+  post_id: "260"
+- id: "23"
+  author_name: Billy Bloyd
+  author_email: oddmentsnw@gmail.com
+  author_url: ""
+  published: 2014-06-07T08:01:06Z
+  parent_id: "0"
+  content: "It's looking really good.. At first I wasn't sure where  you were going with the open coach concept, but now that's it's coming together I can see what's going on.. \nI am just now starting the re-model on my Prevost this weekend... It's going to be fun to see her transformation from old to new... I can't wait to see it finished.... Keep up the good work and hope to see you out on the road one of these days...  Send me an email and I'll send you the pics of my coach,,, (oddmentsnw@gmail.com)"
+  post_url: /?p=260
+  post_id: "260"
+- id: "24"
+  author_name: Khor Balsara
+  author_email: kbalsara@rogers.com
+  author_url: ""
+  published: 2014-06-12T23:24:29Z
+  parent_id: "0"
+  content: Wow its so nice looking now!!!
+  post_url: /?p=260
+  post_id: "260"
+- id: "25"
+  author_name: Kirk
+  author_email: kirknarmore@gmail.com
+  author_url: ""
+  published: 2014-06-21T07:24:27Z
+  parent_id: "0"
+  content: Wow, that  is an incredible simple and quick build on a small budget. Great work!
+  post_url: /?p=289
+  post_id: "289"
+- id: "1127"
+  author_name: JimInHouston
+  author_email: jwmark@pobox.com
+  author_url: ""
+  published: 2016-05-29T16:00:17Z
+  parent_id: "0"
+  content: I love your adventures and I'm impressed by how skillfully and carefully you drive. Add to that you're a good writer and Zara and/or you have a great eye with the camera. I hope to see much more here and on your YouTube channel.
+  post_url: /?p=353
+  post_id: "353"
+- id: "1128"
+  author_name: James
+  author_email: watson_james@hotmail.com
+  author_url: ""
+  published: 2017-03-06T15:08:34Z
+  parent_id: "0"
+  content: Go Ryan and Zara GO!!!
+  post_url: /?p=420
+  post_id: "420"
+- id: "1129"
+  author_name: Tim Dockery (@TD7456)
+  author_email: TD7456@twitter.example.com
+  author_url: http://twitter.com/TD7456
+  published: 2017-05-14T01:04:15Z
+  parent_id: "0"
+  content: Thanks for sharing the journey! Love the bus!
+  post_url: /?p=445
+  post_id: "445"
+- id: "1130"
+  author_name: Tim
+  author_email: tdockery1@gmail.com
+  author_url: ""
+  published: 2017-08-12T23:46:55Z
+  parent_id: "0"
+  content: Thanks for the update, love the story!
+  post_url: /?p=478
+  post_id: "478"

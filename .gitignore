@@ -1,0 +1,21 @@
+# Hugo
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+
+# Migration artifacts (intermediary - not needed in repo)
+wordpress-export.xml
+wp-hugo-export.zip
+hugo-export/
+wp2hugo
+*.tar.gz
