@@ -13,7 +13,6 @@ guid: http://bus.thebottriells.com/?p=546
 parent_post_id: null
 post_id: "546"
 title: Whistler 2018
-url: /
 
 ---
 Through the winter of 2017/2018, we didn't do much, except keep the solar panels clear and the batteries charged.

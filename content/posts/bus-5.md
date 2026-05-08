@@ -13,7 +13,6 @@ parent_post_id: null
 post_id: "56"
 title: The Renovation Begins!
 type: gallery
-url: /
 
 ---
 So we parked the bus in it's new home and started hauling out the insides.... So far the seats are all out and the flooring has started to come up. I'm back in Vancouver now so I won't be able to do any more work on it but this will give me some good time to start planning out the interior. I also found a video from out trip which I'll include at the end here:

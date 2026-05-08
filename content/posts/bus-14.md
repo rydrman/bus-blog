@@ -13,7 +13,6 @@ guid: http://ryanbottriell.com/bus/?p=289
 parent_post_id: null
 post_id: "289"
 title: All Systems Go!!
-url: /
 
 ---
 Well well, look at this. The bus is back on the road with it's own plates and insurance :)

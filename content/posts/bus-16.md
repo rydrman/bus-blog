@@ -13,7 +13,6 @@ guid: http://ryanbottriell.com/bus/?p=353
 parent_post_id: null
 post_id: "353"
 title: Back To B.C.
-url: /
 
 ---
 Well, it's probably been way too long since I've posted anything here, so here goes the next chapter for the bus :). To be honest, though, you haven't missed much in the way of the bus. After our trip to Boston we did take a weekend camping trip to Algonquin park to celebrate the graduation of a bunch of our friends and the arrival of summer vacation. That was a good weekend:

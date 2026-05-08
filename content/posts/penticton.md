@@ -14,7 +14,6 @@ guid: http://bus.thebottriells.com/?p=601
 parent_post_id: null
 post_id: "601"
 title: Penticton 2020
-url: /
 
 ---
 In 2019 we actually didn't get the bus out at all! We visited it during the summer and took it out on a few short drives, but were a little preoccupied with life. In June of 2019, we bought a condo that flooded the day before we closed. Thankfully it was all covered by insurance but we dealt with a number of contractors over the summer and had our hands full planning and building out everything that we wanted!

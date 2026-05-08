@@ -14,7 +14,6 @@ guid: http://bus.thebottriells.com/?p=420
 parent_post_id: null
 post_id: "420"
 title: Another Round Of Projects
-url: /
 
 ---
 Now that Zara and I are really settled into our life in Vancouver, we have some more time and money to re-visit some of the aspects of the bus that we were never quite satisfied with in our initial conversion. I won't divulge the entire list of projects that we came up with yet, but they will all be detailed here at some point ;) We also have a new Instagram account for the bus (which we've officially named Steve) that you can follow for more regular updates from Zara \[ [@abusnamedsteve](https://www.instagram.com/abusnamedsteve/)\]

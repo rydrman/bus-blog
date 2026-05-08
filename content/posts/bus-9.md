@@ -13,7 +13,6 @@ guid: http://ryanbottriell.com/bus/?p=147
 parent_post_id: null
 post_id: "147"
 title: Somewhere to Sleep
-url: /
 
 ---
 So here we go!

@@ -14,7 +14,6 @@ guid: http://ryanbottriell.com/bus/?p=386
 parent_post_id: null
 post_id: "386"
 title: Summer 2016
-url: /
 
 ---
 Well the summer is coming to an end here in B.C. and I think it's time for a little update.We we're hoping to do a longer trip this season but only managed to squeeze in a couple of weekend trips.

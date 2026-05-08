@@ -13,7 +13,6 @@ guid: http://ryanbottriell.com/bus/?p=212
 parent_post_id: null
 post_id: "212"
 title: Almost Ready to Hit the Road!
-url: /
 
 ---
 Okay!!

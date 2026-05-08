@@ -13,7 +13,6 @@ guid: http://ryanbottriell.com/bus/?p=118
 parent_post_id: null
 post_id: "118"
 title: Laying the Groundwork
-url: /
 
 ---
 Well, some exciting things have been happening on the bus since my last post. I'll try to keep this one a little more brief than the last but no guarantees...

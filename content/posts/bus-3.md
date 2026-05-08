@@ -13,7 +13,6 @@ parent_post_id: null
 post_id: "32"
 title: Through the Prairies
 type: gallery
-url: /
 
 ---
 Well, just like everyone warned, the prairies are wide, flat and quite boring :P Seeing the never-ending golden fields for the first time was amazing, and it's a beautiful place, but two days of straight and flat is tough. On Monday we made it all the way to Moosejaw, Saskatchewan, and, along the way, we wired in a nice new stereo for the bus. We had to disconnect 8 of the 12 speakers to get any good volume from the deck but it was worth it!

@@ -13,7 +13,6 @@ guid: http://bus.thebottriells.com/?p=536
 parent_post_id: null
 post_id: "536"
 title: Solar Eclipse Trip
-url: /
 
 ---
 Wow, so much to update on! I'm going to try to keep these posts in order, and not skip anything, but that means jumping back a little for a couple of them.

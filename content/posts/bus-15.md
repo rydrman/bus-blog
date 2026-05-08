@@ -13,7 +13,6 @@ guid: http://ryanbottriell.com/bus/?p=297
 parent_post_id: null
 post_id: "297"
 title: The Inaugural Journey - Boston 2014
-url: /
 
 ---
 This post is a little overdue but better late than never right!? So the first ever major bus trip is now over, and I must say it was awesome. I'll try my best to remember everything as I write this but I'm sure I will miss something.

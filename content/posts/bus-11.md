@@ -13,7 +13,6 @@ guid: http://ryanbottriell.com/bus/?p=206
 parent_post_id: null
 post_id: "206"
 title: Somewhere to Sit
-url: /
 
 ---
 I've got a lot to talk about in this post, but also a lot of good pictures to go with it :) I thought I'd just start with this picture that I forgot to put in the last post of me putting together the kitchen counter...

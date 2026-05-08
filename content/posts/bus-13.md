@@ -13,7 +13,6 @@ guid: http://ryanbottriell.com/bus/?p=260
 parent_post_id: null
 post_id: "260"
 title: The Road is in Sight
-url: /
 
 ---
 I have to say, this week has been very tough. I have been battling my way through the insurance war field that is Ontario. I'm not going to go into all of the reasons that I hate how we do things in this province but know that I'm mad about it. However, on a happy note, I did find someone to insure my bus :) I haven't finalized it yet but I should be able to hit the road next weekend \*fingers crossed\*... but enough about the future, let's look at whats been going on at the bus:

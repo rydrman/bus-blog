@@ -13,7 +13,6 @@ guid: http://ryanbottriell.com/bus/?p=168
 parent_post_id: null
 post_id: "168"
 title: Moving Forward
-url: /
 
 ---
 Just a quick update this week. The plan was to do the front benches next but I've realized that I need to put in seat belts first. The belts are in the mail and I am waiting to get a piece of steel made to secure them. In the meantime, we built most of the counter for the kitchen out of some nice knotty pine boards. Eventually we will stain and/or seal the wood but for now we've just got it all built in. We decided to build around the window mechanisms so that the original emergency exit handles can go back in. The small area along the back should serve nicely as a duct for the heating and AC.

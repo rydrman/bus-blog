@@ -13,7 +13,6 @@ guid: http://bus.thebottriells.com/?p=414
 parent_post_id: null
 post_id: "414"
 title: Harrison Hot Springs
-url: /
 
 ---
 It's been too long since my last post, and there is lots to talk about! I'm going to split everything up in to a few posts but they may appear all at the same time. First of all, we took a small day trip in October to a little town called Harrison Hot Springs here in B.C. Our friend was visiting from Ontario and it seemed like a good opportunity to get the bus out on the road for a day.

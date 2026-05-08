@@ -14,7 +14,6 @@ parent_post_id: null
 post_id: "91"
 title: Almost Ready to Rebuild
 type: image
-url: /
 
 ---
 So I've been back in Ottawa just over two weeks now. I do miss Vancouver but I've been able to get a lot done on the bus :) First thing I did was see if she'd start up again. It ran so well on our journey home I was curious to how it held up to the cold. You can see the video here :

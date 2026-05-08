@@ -14,7 +14,6 @@ parent_post_id: null
 post_id: "41"
 title: Home at Last
 type: gallery
-url: /
 
 ---
 Well, we made it home! From Kenora we headed through Ontario, past Thunder bay and stayed the next night in a little motel in a town with no name :P. In Thunder Bay we ordered some Chinese food and found a beautiful Terry Fox lookout to eat at. We pulled into the parking lot of the lookout and there were literally 9 police cars parked there. We still don't know what they we're doing but they surely weren't doing anything useful...

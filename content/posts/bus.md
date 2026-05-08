@@ -10,7 +10,6 @@ parent_post_id: null
 post_id: "6"
 title: The Adventure Begins
 type: image
-url: /
 
 ---
 [![As Purchased](/wp-content/uploads/2013/10/WP_20130927_07_50_37_Pro.jpg)](/wp-content/uploads/2013/10/WP_20130927_07_50_37_Pro.jpg)

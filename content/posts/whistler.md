@@ -13,7 +13,6 @@ guid: http://bus.thebottriells.com/?p=478
 parent_post_id: null
 post_id: "478"
 title: Whistler 2017
-url: /
 
 ---
 As we prepare for our next trip in the bus, I am reminded that I never finished the blog post for our last one! It was Zara's birthday in May, and another one of our friends has a birthday couple days earlier. Because of this, it has become a bit of a tradition that we do a trip in the bus celebrate. Last year was our trip to the Whistler gun range as many of us had never done that before, and this year we headed back to Whistler for some zip-lining down the mountain! We have another friend who has been working as a zip line instructor up there so it just seemed like the perfect opportunity.

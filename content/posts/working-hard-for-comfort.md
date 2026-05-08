@@ -13,7 +13,6 @@ guid: http://bus.thebottriells.com/?p=445
 parent_post_id: null
 post_id: "445"
 title: Working Hard For Comfort
-url: /
 
 ---
 Zara's birthday has come and past, which is a story in itself, but as usual the blog is a little behind. We finished getting the roof re-insulated fairly quickly, but not without difficulty. We realized after some trial and error that it was going to be really hard to put the metal paneling back up without knowing where each one came from. This meant that we had to sort through and deduce one at a time which panel came from where... There are not really any photos of this process because we powered through it as quickly as possible and were struggling to keep our arms from giving out on us after holding panels above our heads all day.

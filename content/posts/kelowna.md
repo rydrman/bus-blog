@@ -13,7 +13,6 @@ guid: http://bus.thebottriells.com/?p=589
 parent_post_id: null
 post_id: "589"
 title: Kelowna 2018
-url: /
 
 ---
 In the summer of 2018 we already knew that we wouldn't be able to take a honeymoon just yet, but wanted to take at least a small trip as newlyweds. We had never been to Kelowna and decided that it would be a fun weekend to drive the bus up there for a couple of nights.

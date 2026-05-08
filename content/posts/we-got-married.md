@@ -13,7 +13,6 @@ guid: http://bus.thebottriells.com/?p=544
 parent_post_id: null
 post_id: "544"
 title: We Got Married!
-url: /
 
 ---
 And of course, the bus was involved in the wedding. We got married at the sea-to-sky gondola and hosted our closes friends and family in a beautiful house in Whistler for the week. If you know us well you've likely seen all of our pictures already - I'm not going to post many here publically but suffice it to say we thought it was just perfect.
