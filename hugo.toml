@@ -42,9 +42,7 @@ tocopen = true
 [params.assets]
 disableFingerprinting = true
 [params.homeInfoParams]
-Content = """
-    An archived collection of our bus adventures and travels.
-    """
+Content = "An archived collection of our bus adventures and travels."
 Title = "The Bus Blog"
 
 [taxonomies]
