@@ -27,7 +27,7 @@ On day one, we worked our way just across the border to a Walmart parking lot fo
 
 The one unfortunate thing thing that we learned that first day, was that we had not fully winterized the valve on our toilet, and so had to rely on the Walmart washrooms...
 
-{{< youtube JZtOhwPnV7U >}}&t=63s
+{{< youtube JZtOhwPnV7U >}}
 
 In our previous trip to Seattle, we tried to take a tour of the Boeing factory, but couldn't get a space (as it was the 4th of July weekend). This time we were determined to see it, and booked spots well in advance. We woke up the next morning, bought some cereal and milk from our hosts, and then headed straight to the factory!
 
@@ -37,7 +37,7 @@ If you ever get a chance to visit the Everett, Washington plant I highly recomme
 
 After the factory visit, we went out on a mission to fuel the bus and get some lunch. This can be a straightforward endeavor if you're lucky, but more often than not you are cruising around just waiting for a station that sells diesel at a reasonable price, and that actually fits the bus! If I'm honest, navigating these tight spaces and parking lots are my favorite part of these journeys (and the least for Zara) ;)
 
-{{< youtube WNW-Z\_FFecM >}}&t=171s
+{{< youtube WNW-Z_FFecM >}}
 
 After lunch, we coninued south through Seattle and towards Oregon. We started to make our way towards Mt. St.Helens until we realized that it was a really long way off of our path, and would be closed by the time we made it there. Instead, we settled for a nice walk around one of the visitor centers near the highway.
 
@@ -45,7 +45,7 @@ That night, we made our way to a rest area south of Seattle, near the Oregon bor
 
 The next morning we did a few more clicks and found a McDonald's for breakfast.
 
-{{< youtube 4kQQrCwY6hE >}}&t=160s
+{{< youtube 4kQQrCwY6hE >}}
 
 It was Sunday now, one day from the eclipse, and we were getting into Oregon. None of us had ever been to Portland so we wanted to go into the city for the day and see some of downtown. As you can imagine, downtown cores are not a great place for the bus, and don't usually have the kind of parking that we need in order for us to stop and have lunch! Our solution was to find somewhere that did have parking, but also access to transit. The Portland Expo Center was our saving grace, with a light rail connection right into the city, and more parking than you could ever hope for.
 
@@ -53,7 +53,7 @@ Usually when we travel in the bus, we try and avoid situations where we need som
 
 When we arrived, the parking attendant was not having it and was looking for reasons to turn us away, which would have sucked. Thankfully, her boss (or whoever was on the other end of the radio) couldn't have cared less. In the end, we paid for two spots and got our own space along their nice driveway!
 
-{{< youtube bn0KrLR\_EtQ >}}&t=218s
+{{< youtube bn0KrLR_EtQ >}}
 
 We had a lovely day, and in the afternoon, continued on to our final destination, another walmart within the area of the totality.
 

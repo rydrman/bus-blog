@@ -36,13 +36,13 @@ We stayed at a beautiful little spot right on the river - at some point in the l
 
 Unfortunately, I don't actually have a lot of photos from this trip, but I did get some more driving footage on the way home!
 
-{{< youtube is4HRg8hwPM >}}&t=32s&ab\_channel=RyanBottriell
+{{< youtube is4HRg8hwPM >}}
 
-{{< youtube r-DkOPNx4z8 >}}&t=56s
+{{< youtube r-DkOPNx4z8 >}}
 
-{{< youtube i\_-gIVcmk68 >}}&t=2s
+{{< youtube i_-gIVcmk68 >}}
 
-{{< youtube aj9qbKUIfA0 >}}&t=41s
+{{< youtube aj9qbKUIfA0 >}}
 
 {{< youtube 5OafvdvOb7Q >}}
 
